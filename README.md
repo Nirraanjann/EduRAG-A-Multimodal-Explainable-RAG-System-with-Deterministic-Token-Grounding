@@ -1,6 +1,4 @@
-# EduRAG: A Multimodal Explainable RAG
-System with Deterministic Token
-Grounding
+# EduRAG: A Multimodal Explainable RAG System with Deterministic Token Grounding
 
 > A research-grade RAG system built for educational Q&A with full explainability — citation grounding, token-level attribution, and hallucination detection.
 
